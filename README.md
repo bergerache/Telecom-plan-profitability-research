@@ -3,7 +3,7 @@
 
 #### The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget. 
 
-#### For better notebook view: https://nbviewer.org/github/bergerache/Telecom_churn_predictor/blob/main/Telecom_churn_predictor.ipynb
+#### For better notebook view: https://nbviewer.org/github/bergerache/Telecom-plan-profitability-research/blob/main/Telecom_plan_comparison.ipynb
 
 #### Data Description
 
